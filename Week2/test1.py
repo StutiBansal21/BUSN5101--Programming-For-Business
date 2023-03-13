@@ -40,4 +40,4 @@ print(you)
 # invalid syntax. x=2,y=4,print(x+y) instead use semicolon -> TO IMPROVE CLARITY
 x = 2; y = 4; print(x + y) # to print in 1 line!
 
-#what is none/null?
+# what is none/null?
